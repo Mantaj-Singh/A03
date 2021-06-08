@@ -35,4 +35,6 @@ PART 2: Glossary to include these terms in a bulleted list.
 
 •	Repository- Similar to a project folder, it contains and stores all project files. 
 
-References- https://docs.github.com/en/github/getting-started-with-github/quickstart/github-glossary, https://www.google.com/search?q=what+is+github&rlz=1C1CHZN_enUS916US917&oq=what+is+github&aqs=chrome..69i57j0l9.2997j1j15&sourceid=chrome&ie=UTF-8, https://njit.instructure.com/courses/17490/files/2285809?module_item_id=507647
+References- https://docs.github.com/en/github/getting-started-with-github/quickstart/github-glossary, 
+https://www.google.com/search?q=what+is+github&rlz=1C1CHZN_enUS916US917&oq=what+is+github&aqs=chrome..69i57j0l9.2997j1j15&sourceid=chrome&ie=UTF-8,
+https://njit.instructure.com/courses/17490/files/2285809?module_item_id=507647
