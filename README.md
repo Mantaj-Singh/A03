@@ -8,7 +8,7 @@ Step 2: Download Git from https://git-scm.com/downloads and choose based on the 
 Step 3: Create a Github account at https://github.com/join.
  
 
-Part 2: Glossary to include these terms in a bulleted list.
+PART 2: Glossary to include these terms in a bulleted list.
 
 
 •	Branch- Contained within a repository, it allows you to make changes without disturbing the main version.
