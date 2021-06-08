@@ -8,7 +8,9 @@ Part 2: Glossary to include these terms in a bulleted list.
 
 
 •	Branch- Contained within a repository, it allows you to make changes without disturbing the main version.
+
 •	Clone- A copy of a repository saved on your computer.
+
 •	Commit- Saves an individual change to work.
 •	Fetch- Allows you to add changes without committing them. 
 •	GIT- Local client version control software.
